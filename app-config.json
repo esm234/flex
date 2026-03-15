@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "isActive": false,
+    "isActive": true,
     "message": "التطبيق يخضع الآن لصيانة دورية.. نعتذر عن الإزعاج وسنعود قريباً."
   },
   "update": {
